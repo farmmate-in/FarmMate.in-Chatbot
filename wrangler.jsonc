@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "farmmate-chatbot",
+  "name": "farmmate-in-chatbot",
   "main": "src/index.js",
   "compatibility_date": "2026-08-01",
   "observability": {
@@ -13,8 +13,8 @@
   "kv_namespaces": [
     {
       "binding": "FARMMATE_KB",
-      "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
-    }
+      "id": "8f727d35d688423383ed1c91dc0cf39c"  
+      }
   ]
 
   // ANTHROPIC_API_KEY is set as a secret, NOT here:
