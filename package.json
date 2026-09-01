@@ -1,0 +1,17 @@
+{
+  "name": "farmmate-chatbot-worker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FarmMate Sahayak — Cloudflare Worker backend for the FarmMate.in agri-chatbot, with CIB-approved product retrieval.",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "kv:upload-index": "wrangler kv key put --binding=FARMMATE_KB index --path=data/index.json --remote",
+    "kv:upload-lookup": "wrangler kv key put --binding=FARMMATE_KB lookup --path=data/lookup.json --remote",
+    "kv:upload-all": "npm run kv:upload-index && npm run kv:upload-lookup"
+  },
+  "devDependencies": {
+    "wrangler": "^4.20.0"
+  }
+}

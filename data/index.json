@@ -1,0 +1,4142 @@
+[
+ {
+  "product": "Aaban - Gibberellic Acid 0.001% L (Plant Growth Regulator)",
+  "active_ingredients": [
+   "Gibberellic Acid"
+  ],
+  "crops": [
+   "Banana",
+   "Brinjal",
+   "Cherry",
+   "Cotton",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Paddy",
+   "Sugarcane"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Aarnova (Azoxystrobin 18.2% + Difenoconazole 11.4% SC) Systemic Fungicide",
+  "active_ingredients": [
+   "Difenoconazole",
+   "Azoxystrobin"
+  ],
+  "crops": [
+   "Apple",
+   "Chilli",
+   "Cucumber",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Onion",
+   "Paddy",
+   "Pomegranate",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Watermelon",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Aconite Chlorantraniliprole 18.5% SC Insecticide",
+  "active_ingredients": [
+   "Chlorantraniliprole"
+  ],
+  "crops": [
+   "Black gram",
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Citrus",
+   "Cotton",
+   "Cucumber",
+   "Gram",
+   "Grape",
+   "Paddy",
+   "Pigeon pea",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Beetle",
+   "Blight",
+   "Bollworm",
+   "Caterpillar",
+   "Diamond back moth",
+   "Downy mildew",
+   "Fly",
+   "Fruit borer",
+   "Leaf folder",
+   "Moth",
+   "Pod borer",
+   "Powdery mildew",
+   "Sheath blight",
+   "Shoot borer",
+   "Stem borer",
+   "Termite"
+  ]
+ },
+ {
+  "product": "Acrazone - Paraquat Dichloride 24% SL Non-Selective Contact Herbicide",
+  "active_ingredients": [
+   "Paraquat Dichloride"
+  ],
+  "crops": [
+   "Potato",
+   "Rice",
+   "Tea"
+  ],
+  "pests": [
+   "Weed",
+   "Weeds"
+  ]
+ },
+ {
+  "product": "Adfas - Imidacloprid 70% WG Insecticide",
+  "active_ingredients": [
+   "Imidacloprid"
+  ],
+  "crops": [
+   "Bhindi",
+   "Cotton",
+   "Cucumber",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Sorghum",
+   "Sunflower",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blast",
+   "Blight",
+   "Fly",
+   "Hoppers",
+   "Jassid",
+   "Jassids",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Termites",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Agent SC - Fipronil 5% SC Insecticide",
+  "active_ingredients": [
+   "Fipronil"
+  ],
+  "crops": [
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Diamond back moth",
+   "Hopper",
+   "Jassid",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Shoot borer",
+   "Stem borer",
+   "Termites",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Agni - Emamectin Benzoate 5% SG Insecticide",
+  "active_ingredients": [
+   "Emamectin Benzoate"
+  ],
+  "crops": [
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chickpea",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Grapes",
+   "Okra",
+   "Paddy",
+   "Pigeon pea",
+   "Red gram",
+   "Soybean",
+   "Tea",
+   "Tobacco"
+  ],
+  "pests": [
+   "Beetle",
+   "Bollworms",
+   "Caterpillar",
+   "Diamond back moth",
+   "Fruit borer",
+   "Hopper",
+   "Leaf folder",
+   "Mite",
+   "Mites",
+   "Moth",
+   "Pod borer",
+   "Shoot borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Apterra Plus - Thiamethoxam 30% FS Insecticide",
+  "active_ingredients": [
+   "Thiamethoxam"
+  ],
+  "crops": [
+   "Cotton",
+   "Maize",
+   "Potato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blight",
+   "Jassids",
+   "Root rot",
+   "Rot",
+   "Termites",
+   "Whitefly",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Arjun - Lambda Cyhalothrin 4.9% CS Insecticide",
+  "active_ingredients": [
+   "Lambda Cyhalothrin"
+  ],
+  "crops": [
+   "Cabbage",
+   "Cauliflower",
+   "Cotton",
+   "Gram",
+   "Mango",
+   "Pigeonpea",
+   "Rice"
+  ],
+  "pests": [
+   "Diamond back moth",
+   "Fly",
+   "Hopper",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Stem borer"
+  ]
+ },
+ {
+  "product": "Bayer Planofix - Alpha Napthyl Acetic Acid 4.5% w/w SL",
+  "active_ingredients": [
+   "Alpha Napthyl Acetic Acid"
+  ],
+  "crops": [],
+  "pests": []
+ },
+ {
+  "product": "Bhoomi Sulphur 80% WDG Fungicide",
+  "active_ingredients": [
+   "Sulphur"
+  ],
+  "crops": [
+   "Apple",
+   "Cherry",
+   "Chilli",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Peas",
+   "Rose"
+  ],
+  "pests": [
+   "Leaf spot",
+   "Powdery mildew",
+   "Rust"
+  ]
+ },
+ {
+  "product": "Bilt+ Propiconazole 25% EC Systemic Fungicide",
+  "active_ingredients": [
+   "Propiconazole"
+  ],
+  "crops": [
+   "Banana",
+   "Cotton",
+   "Cucumber",
+   "Grape",
+   "Groundnut",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Tea",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Sigatoka"
+  ]
+ },
+ {
+  "product": "Bispa Bispyribac Sodium 10% SC Herbicide",
+  "active_ingredients": [
+   "Bispyribac Sodium"
+  ],
+  "crops": [
+   "Paddy",
+   "Rice"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Black Cat (Fipronil 40% + Imidacloprid 40% WG) Insecticide",
+  "active_ingredients": [
+   "Imidacloprid",
+   "Fipronil"
+  ],
+  "crops": [
+   "Bhindi",
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Cucumber",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Sorghum",
+   "Sugarcane",
+   "Sunflower",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blast",
+   "Blight",
+   "Diamond back moth",
+   "Fly",
+   "Hopper",
+   "Hoppers",
+   "Jassid",
+   "Jassids",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Shoot borer",
+   "Stem borer",
+   "Termites",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "BodyGuard BG - Tebuconazole 2% DS Fungicide",
+  "active_ingredients": [
+   "Tebuconazole"
+  ],
+  "crops": [
+   "Chickpea",
+   "Chilli",
+   "Groundnut",
+   "Onion",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Brahmastra - Permethrin 25% EC Insecticide",
+  "active_ingredients": [
+   "Permethrin"
+  ],
+  "crops": [
+   "Cotton",
+   "Rice"
+  ],
+  "pests": [
+   "Beetle",
+   "Rice weevil"
+  ]
+ },
+ {
+  "product": "Checkerz - Pymetrozine 50% WG Insecticide",
+  "active_ingredients": [
+   "Pymetrozine"
+  ],
+  "crops": [
+   "Banana",
+   "Brinjal",
+   "Chilli",
+   "Coffee",
+   "Cotton",
+   "Cumin",
+   "Groundnut",
+   "Maize",
+   "Mango",
+   "Okra",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Tea",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Aphids",
+   "Blight",
+   "Fly",
+   "Hopper",
+   "Hoppers",
+   "Jassid",
+   "Jassids",
+   "Leaf spot",
+   "Mite",
+   "Plant hopper",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Sigatoka",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Chief - Sulfosulfuron 75% WG Herbicide",
+  "active_ingredients": [
+   "Sulfosulfuron"
+  ],
+  "crops": [
+   "Maize",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Clean Bold 2,4-D Amine Salt 58% SL Herbicide",
+  "active_ingredients": [
+   "2",
+   "4-D Amine Salt"
+  ],
+  "crops": [
+   "Maize",
+   "Potato",
+   "Sorghum",
+   "Sugarcane",
+   "Tea",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Cloriva – Azoxystrobin 4.8% + Chlorothalonil 40% SC Fungicide",
+  "active_ingredients": [
+   "Chlorothalonil",
+   "Azoxystrobin"
+  ],
+  "crops": [
+   "Apple",
+   "Cauliflower",
+   "Chilli",
+   "Cucumber",
+   "Cumin",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Paddy",
+   "Pomegranate",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Watermelon"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Scab"
+  ]
+ },
+ {
+  "product": "Control Acetamiprid 20% SP Insecticide",
+  "active_ingredients": [
+   "Acetamiprid"
+  ],
+  "crops": [
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Cucumber",
+   "Okra",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Tea",
+   "Tobacco"
+  ],
+  "pests": [
+   "Aphids",
+   "Beetle",
+   "Bug",
+   "Caterpillar",
+   "Hopper",
+   "Jassid",
+   "Jassids",
+   "Mite",
+   "Plant hopper",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Crystal Bavistin Fungicide (Carbendazim 50% WP)",
+  "active_ingredients": [
+   "Carbendazim"
+  ],
+  "crops": [
+   "Barley",
+   "Cotton",
+   "Grape",
+   "Mango",
+   "Paddy",
+   "Rice",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Cygnus Chlorantraniliprole 18.5% SC Insecticide",
+  "active_ingredients": [
+   "Chlorantraniliprole"
+  ],
+  "crops": [
+   "Black gram",
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Citrus",
+   "Cotton",
+   "Cucumber",
+   "Gram",
+   "Grape",
+   "Paddy",
+   "Pigeon pea",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Beetle",
+   "Blight",
+   "Bollworm",
+   "Caterpillar",
+   "Diamond back moth",
+   "Downy mildew",
+   "Fly",
+   "Fruit borer",
+   "Leaf folder",
+   "Moth",
+   "Pod borer",
+   "Powdery mildew",
+   "Sheath blight",
+   "Shoot borer",
+   "Stem borer",
+   "Termite"
+  ]
+ },
+ {
+  "product": "Cyman Cymoxanil 8% + Mancozeb 64% WP Fungicide",
+  "active_ingredients": [
+   "Cymoxanil",
+   "Mancozeb"
+  ],
+  "crops": [
+   "Apple",
+   "Citrus",
+   "Cucumber",
+   "Grapes",
+   "Groundnut",
+   "Maize",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Rot",
+   "Rust",
+   "Scab"
+  ]
+ },
+ {
+  "product": "Dazim Plus Carbendazim 46.27% SC Fungicide",
+  "active_ingredients": [
+   "Carbendazim"
+  ],
+  "crops": [
+   "Barley",
+   "Cotton",
+   "Grape",
+   "Mango",
+   "Paddy",
+   "Rice",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Dhansu Clothianidin 50% WG Insecticide",
+  "active_ingredients": [
+   "Clothianidin"
+  ],
+  "crops": [
+   "Cotton",
+   "Grapes",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Rice",
+   "Sugarcane",
+   "Tea"
+  ],
+  "pests": [
+   "Aphids",
+   "Bug",
+   "Fly",
+   "Hopper",
+   "Jassids",
+   "Plant hopper",
+   "Termite",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Dhanuka Fenox -1000 (Pinoxaden 5.1% EC) Herbicide",
+  "active_ingredients": [
+   "Pinoxaden"
+  ],
+  "crops": [
+   "Rice",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Dolby - Dinotefuran 15% + Pymetrozine 45% WG Insecticide",
+  "active_ingredients": [
+   "Pymetrozine",
+   "Dinotefuran"
+  ],
+  "crops": [
+   "Banana",
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chickpea",
+   "Chilli",
+   "Coffee",
+   "Cotton",
+   "Cumin",
+   "Gram",
+   "Grapes",
+   "Groundnut",
+   "Maize",
+   "Mango",
+   "Okra",
+   "Paddy",
+   "Red gram",
+   "Rice",
+   "Soybean",
+   "Tea",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Aphids",
+   "Blight",
+   "Diamond back moth",
+   "Fly",
+   "Fruit borer",
+   "Hopper",
+   "Hoppers",
+   "Jassid",
+   "Jassids",
+   "Leaf spot",
+   "Mite",
+   "Mites",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Shoot borer",
+   "Sigatoka",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Elcon Super - Hexaconazole 5% SC Fungicide",
+  "active_ingredients": [
+   "Hexaconazole"
+  ],
+  "crops": [
+   "Apple",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tea"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Elmida Super - Imidacloprid 30.5% SC Insecticide",
+  "active_ingredients": [
+   "Imidacloprid"
+  ],
+  "crops": [
+   "Bhindi",
+   "Cotton",
+   "Cucumber",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Sorghum",
+   "Sunflower",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blast",
+   "Blight",
+   "Fly",
+   "Hoppers",
+   "Jassid",
+   "Jassids",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Termites",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Emerge - Pyriproxyfen 10% EC Insecticide",
+  "active_ingredients": [
+   "Pyriproxyfen"
+  ],
+  "crops": [
+   "Apple",
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Maize",
+   "Okra",
+   "Paddy",
+   "Rice",
+   "Tea"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Bollworms",
+   "Diamond back moth",
+   "Hopper",
+   "Jassid",
+   "Jassids",
+   "Mite",
+   "Moth",
+   "Plant hopper",
+   "Shoot borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Emergent Fipronil 0.3% GR Insecticide",
+  "active_ingredients": [
+   "Fipronil"
+  ],
+  "crops": [
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Diamond back moth",
+   "Hopper",
+   "Jassid",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Shoot borer",
+   "Stem borer",
+   "Termites",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Emma - Emamectin Benzoate 1.9% EC Insecticide",
+  "active_ingredients": [
+   "Emamectin Benzoate"
+  ],
+  "crops": [
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chickpea",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Grapes",
+   "Okra",
+   "Paddy",
+   "Pigeon pea",
+   "Red gram",
+   "Soybean",
+   "Tea",
+   "Tobacco"
+  ],
+  "pests": [
+   "Beetle",
+   "Bollworms",
+   "Caterpillar",
+   "Diamond back moth",
+   "Fruit borer",
+   "Hopper",
+   "Leaf folder",
+   "Mite",
+   "Mites",
+   "Moth",
+   "Pod borer",
+   "Shoot borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Exil Gold - Azoxystrobin 11% + Tebuconazole 18.3% SC Fungicide",
+  "active_ingredients": [
+   "Azoxystrobin",
+   "Tebuconazole"
+  ],
+  "crops": [
+   "Chickpea",
+   "Chilli",
+   "Cucumber",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Onion",
+   "Paddy",
+   "Pomegranate",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Watermelon",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "F-Pendi Pendimethalin 30% EC Herbicide",
+  "active_ingredients": [
+   "Pendimethalin"
+  ],
+  "crops": [
+   "Cotton",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Fair – Azoxystrobin 11.5% + Mancozeb 30% WG Fungicide",
+  "active_ingredients": [
+   "Azoxystrobin",
+   "Mancozeb"
+  ],
+  "crops": [
+   "Apple",
+   "Chilli",
+   "Cucumber",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Maize",
+   "Mango",
+   "Paddy",
+   "Pomegranate",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Watermelon",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Scab"
+  ]
+ },
+ {
+  "product": "Fasgor - Dimethoate 30% EC Insecticide",
+  "active_ingredients": [
+   "Dimethoate"
+  ],
+  "crops": [
+   "Bajra",
+   "Bhindi",
+   "Brinjal",
+   "Castor",
+   "Cauliflower",
+   "Cotton",
+   "Maize",
+   "Mustard",
+   "Okra",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Safflower",
+   "Sorghum"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Beetle",
+   "Bug",
+   "Fly",
+   "Fruit borer",
+   "Hopper",
+   "Jassids",
+   "Leaf folder",
+   "Leaf miner",
+   "Mites",
+   "Plant hopper",
+   "Stem borer",
+   "Thrips",
+   "Weed"
+  ]
+ },
+ {
+  "product": "Fasmida Super - Imidacloprid 30.5% SC Insecticide",
+  "active_ingredients": [
+   "Imidacloprid"
+  ],
+  "crops": [
+   "Bhindi",
+   "Cotton",
+   "Cucumber",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Sorghum",
+   "Sunflower",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blast",
+   "Blight",
+   "Fly",
+   "Hoppers",
+   "Jassid",
+   "Jassids",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Termites",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Fasvit - Sulphur 80% WDG Fungicide",
+  "active_ingredients": [
+   "Sulphur"
+  ],
+  "crops": [
+   "Apple",
+   "Cherry",
+   "Chilli",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Peas",
+   "Rose"
+  ],
+  "pests": [
+   "Leaf spot",
+   "Powdery mildew",
+   "Rust"
+  ]
+ },
+ {
+  "product": "Fenoxa Fenoxaprop-p-ethyl 9.3% EC Herbicide",
+  "active_ingredients": [
+   "Fenoxaprop-p-ethyl"
+  ],
+  "crops": [
+   "Cotton",
+   "Groundnut",
+   "Jute",
+   "Onion",
+   "Paddy",
+   "Rice",
+   "Soybean"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Fifty50 - Lambda Cyhalothrin 5% EC Insecticide",
+  "active_ingredients": [
+   "Lambda Cyhalothrin"
+  ],
+  "crops": [
+   "Cabbage",
+   "Cauliflower",
+   "Cotton",
+   "Gram",
+   "Mango",
+   "Pigeonpea",
+   "Rice"
+  ],
+  "pests": [
+   "Diamond back moth",
+   "Fly",
+   "Hopper",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Stem borer"
+  ]
+ },
+ {
+  "product": "Fipro 80 – Fipronil 80% WG Insecticide",
+  "active_ingredients": [
+   "Fipronil"
+  ],
+  "crops": [
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Diamond back moth",
+   "Hopper",
+   "Jassid",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Shoot borer",
+   "Stem borer",
+   "Termites",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "First Choice - Carbendazim 46.27% SC Fungicide",
+  "active_ingredients": [
+   "Carbendazim"
+  ],
+  "crops": [
+   "Barley",
+   "Cotton",
+   "Grape",
+   "Mango",
+   "Paddy",
+   "Rice",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "FMC Corprima Insecticide - Chlorantraniliprole 35% WG",
+  "active_ingredients": [
+   "Chlorantraniliprole"
+  ],
+  "crops": [
+   "Black gram",
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Citrus",
+   "Cotton",
+   "Cucumber",
+   "Gram",
+   "Grape",
+   "Paddy",
+   "Pigeon pea",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Beetle",
+   "Blight",
+   "Bollworm",
+   "Caterpillar",
+   "Diamond back moth",
+   "Downy mildew",
+   "Fly",
+   "Fruit borer",
+   "Leaf folder",
+   "Moth",
+   "Pod borer",
+   "Powdery mildew",
+   "Sheath blight",
+   "Shoot borer",
+   "Stem borer",
+   "Termite"
+  ]
+ },
+ {
+  "product": "Foli-Sulf 75 (Tebuconazole 10% + Sulphur 65% WG) Fungicide",
+  "active_ingredients": [
+   "Tebuconazole",
+   "Sulphur"
+  ],
+  "crops": [
+   "Apple",
+   "Cherry",
+   "Chickpea",
+   "Chilli",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Onion",
+   "Paddy",
+   "Peas",
+   "Rice",
+   "Rose",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Foliglow - Tebuconazole 25% WG Fungicide",
+  "active_ingredients": [
+   "Tebuconazole"
+  ],
+  "crops": [
+   "Chickpea",
+   "Chilli",
+   "Groundnut",
+   "Onion",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Folitop - Tebuconazole 25.9% EC Systemic Fungicide",
+  "active_ingredients": [
+   "Tebuconazole"
+  ],
+  "crops": [
+   "Chickpea",
+   "Chilli",
+   "Groundnut",
+   "Onion",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Fouji - Isoprothiolane 40% EC Fungicide",
+  "active_ingredients": [
+   "Isoprothiolane"
+  ],
+  "crops": [
+   "Cabbage",
+   "Chilli",
+   "Gram",
+   "Grapes",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Hopper",
+   "Leaf spot",
+   "Plant hopper",
+   "Rot",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Freegan - Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC Insecticide",
+  "active_ingredients": [
+   "Lambda Cyhalothrin",
+   "Thiamethoxam"
+  ],
+  "crops": [
+   "Cabbage",
+   "Cauliflower",
+   "Cotton",
+   "Gram",
+   "Maize",
+   "Mango",
+   "Pigeonpea",
+   "Potato",
+   "Rice",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blight",
+   "Diamond back moth",
+   "Fly",
+   "Hopper",
+   "Jassids",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Root rot",
+   "Rot",
+   "Stem borer",
+   "Termites",
+   "Whitefly",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "G-Tricil Tricyclazole 75% W.P. Fungicide",
+  "active_ingredients": [
+   "Tricyclazole"
+  ],
+  "crops": [
+   "Apple",
+   "Chilli",
+   "Maize",
+   "Paddy",
+   "Rice",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Gib Speed Gibberellic Acid 40% WSG Plant Growth Regulator",
+  "active_ingredients": [
+   "Gibberellic Acid"
+  ],
+  "crops": [
+   "Banana",
+   "Brinjal",
+   "Cherry",
+   "Cotton",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Paddy",
+   "Sugarcane"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Glayer - Propiconazole 25% EC Fungicide",
+  "active_ingredients": [
+   "Propiconazole"
+  ],
+  "crops": [
+   "Banana",
+   "Cotton",
+   "Cucumber",
+   "Grape",
+   "Groundnut",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Tea",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Sigatoka"
+  ]
+ },
+ {
+  "product": "Glowflex - Bifenthrin 10% EC Insecticide",
+  "active_ingredients": [
+   "Bifenthrin"
+  ],
+  "crops": [
+   "Apple",
+   "Cotton",
+   "Paddy",
+   "Rice",
+   "Sugarcane",
+   "Tea"
+  ],
+  "pests": [
+   "Bug",
+   "Fly",
+   "Hopper",
+   "Mite",
+   "Mites",
+   "Stem borer",
+   "Termites"
+  ]
+ },
+ {
+  "product": "Glowmax - Gibberellic Acid 0.001% L Plant Growth Regulator",
+  "active_ingredients": [
+   "Gibberellic Acid"
+  ],
+  "crops": [
+   "Banana",
+   "Brinjal",
+   "Cherry",
+   "Cotton",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Paddy",
+   "Sugarcane"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Gluster – Glufosinate Ammonium 13.5% SL Herbicide",
+  "active_ingredients": [
+   "Glufosinate Ammonium"
+  ],
+  "crops": [
+   "Cotton",
+   "Sorghum",
+   "Tea"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Halosin Halosulfuron Methyl 75% WG Herbicide",
+  "active_ingredients": [
+   "Halosulfuron Methyl"
+  ],
+  "crops": [
+   "Maize",
+   "Onion",
+   "Soybean",
+   "Sugarcane"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Harrier - Chlorpyriphos 50% EC Insecticide",
+  "active_ingredients": [
+   "Chlorpyriphos"
+  ],
+  "crops": [
+   "Cotton",
+   "Gram",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Bug",
+   "Fly",
+   "Hopper",
+   "Jassids",
+   "Leaf folder",
+   "Plant hopper",
+   "Pod borer",
+   "Stem borer",
+   "Termite",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Hento - Metsulfuron Methyl 20% WP Herbicide",
+  "active_ingredients": [
+   "Metsulfuron Methyl"
+  ],
+  "crops": [
+   "Rice",
+   "Sugarcane",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Hexafas Plus - Hexaconazole 5% SC Fungicide",
+  "active_ingredients": [
+   "Hexaconazole"
+  ],
+  "crops": [
+   "Apple",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tea"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "HouseCare Max Alphacypermethrin 10% SC Insecticide",
+  "active_ingredients": [
+   "Alphacypermethrin"
+  ],
+  "crops": [
+   "Cotton",
+   "Rice"
+  ],
+  "pests": [
+   "Beetle",
+   "Rice weevil"
+  ]
+ },
+ {
+  "product": "Hukoomat Captan 70% + Hexaconazole 5% WP Fungicide",
+  "active_ingredients": [
+   "Hexaconazole",
+   "Captan"
+  ],
+  "crops": [
+   "Apple",
+   "Brinjal",
+   "Cabbage",
+   "Cauliflower",
+   "Cherry",
+   "Chilli",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tea",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Fly",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Hydra Plus - Novaluron 5.25% + Indoxacarb 4.5% SC Insecticide",
+  "active_ingredients": [
+   "Indoxacarb",
+   "Novaluron"
+  ],
+  "crops": [
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chickpea",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Groundnut",
+   "Maize",
+   "Mustard",
+   "Okra",
+   "Paddy",
+   "Pigeonpea",
+   "Rice",
+   "Sesamum",
+   "Sorghum",
+   "Soybean",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Aphid",
+   "Beetle",
+   "Bollworm",
+   "Bollworms",
+   "Caterpillar",
+   "Diamond back moth",
+   "Fly",
+   "Fruit borer",
+   "Hopper",
+   "Hoppers",
+   "Jassid",
+   "Jassids",
+   "Leaf folder",
+   "Leaf miner",
+   "Mite",
+   "Mites",
+   "Moth",
+   "Pod borer",
+   "Semilooper",
+   "Stem borer",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Iconic - Clodinafop Propargyl 15% WP Herbicide",
+  "active_ingredients": [
+   "Clodinafop Propargyl"
+  ],
+  "crops": [
+   "Rice",
+   "Sugarcane",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "iCure - Tebuconazole 25.9% EC Fungicide",
+  "active_ingredients": [
+   "Tebuconazole"
+  ],
+  "crops": [
+   "Chickpea",
+   "Chilli",
+   "Groundnut",
+   "Onion",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "iFIT Plus - Pretilachlor 37% EW Selective Herbicide",
+  "active_ingredients": [
+   "Pretilachlor"
+  ],
+  "crops": [
+   "Rice",
+   "Soybean"
+  ],
+  "pests": [
+   "Weeds"
+  ]
+ },
+ {
+  "product": "Indian Azoxy Azoxystrobin 23% SC Fungicide",
+  "active_ingredients": [
+   "Azoxystrobin"
+  ],
+  "crops": [
+   "Chilli",
+   "Cucumber",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Paddy",
+   "Pomegranate",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Watermelon"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot"
+  ]
+ },
+ {
+  "product": "Indotop Clothianidin 50% WG Insecticide",
+  "active_ingredients": [
+   "Clothianidin"
+  ],
+  "crops": [
+   "Cotton",
+   "Grapes",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Rice",
+   "Sugarcane",
+   "Tea"
+  ],
+  "pests": [
+   "Aphids",
+   "Bug",
+   "Fly",
+   "Hopper",
+   "Jassids",
+   "Plant hopper",
+   "Termite",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Jaadu (Profenofos 40% + Cypermethrin 4% EC) Insecticide",
+  "active_ingredients": [
+   "Cypermethrin",
+   "Profenofos"
+  ],
+  "crops": [
+   "Apple",
+   "Brinjal",
+   "Chilli",
+   "Cotton",
+   "Mango",
+   "Onion",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Tea",
+   "Tobacco"
+  ],
+  "pests": [
+   "Aphids",
+   "Beetle",
+   "Bollworm",
+   "Caterpillar",
+   "Fruit borer",
+   "Hopper",
+   "Hoppers",
+   "Jassids",
+   "Leaf folder",
+   "Mite",
+   "Mites",
+   "Moth",
+   "Plant hopper",
+   "Rice weevil",
+   "Shoot borer",
+   "Stem borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Jagger Gibberellic Acid 0.001% L Plant Growth Regulator",
+  "active_ingredients": [
+   "Gibberellic Acid"
+  ],
+  "crops": [
+   "Banana",
+   "Brinjal",
+   "Cherry",
+   "Cotton",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Paddy",
+   "Sugarcane"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Killdan SP - Cartap Hydrochloride 50% SP Insecticide",
+  "active_ingredients": [
+   "Cartap Hydrochloride"
+  ],
+  "crops": [
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Paddy",
+   "Pigeon pea",
+   "Rice",
+   "Sugarcane",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Bollworm",
+   "Caterpillar",
+   "Diamond back moth",
+   "Fly",
+   "Fruit borer",
+   "Leaf folder",
+   "Moth",
+   "Pod borer",
+   "Shoot borer",
+   "Stem borer",
+   "Termite"
+  ]
+ },
+ {
+  "product": "Kisan Fipro Plus - Fipronil 5% SC Insecticide",
+  "active_ingredients": [
+   "Fipronil"
+  ],
+  "crops": [
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Diamond back moth",
+   "Hopper",
+   "Jassid",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Shoot borer",
+   "Stem borer",
+   "Termites",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Kisan Imida Super - Imidacloprid 30.5% SC Insecticide",
+  "active_ingredients": [
+   "Imidacloprid"
+  ],
+  "crops": [
+   "Bhindi",
+   "Cotton",
+   "Cucumber",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Sorghum",
+   "Sunflower",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blast",
+   "Blight",
+   "Fly",
+   "Hoppers",
+   "Jassid",
+   "Jassids",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Termites",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Kisan Thiam - Thiamethoxam 25% WG Insecticide",
+  "active_ingredients": [
+   "Thiamethoxam"
+  ],
+  "crops": [
+   "Cotton",
+   "Maize",
+   "Potato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blight",
+   "Jassids",
+   "Root rot",
+   "Rot",
+   "Termites",
+   "Whitefly",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Kisan Thiam Plus - Thiamethoxam 30% FS Insecticide",
+  "active_ingredients": [
+   "Thiamethoxam"
+  ],
+  "crops": [
+   "Cotton",
+   "Maize",
+   "Potato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blight",
+   "Jassids",
+   "Root rot",
+   "Rot",
+   "Termites",
+   "Whitefly",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Kisan Thilam - Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC Insecticide",
+  "active_ingredients": [
+   "Lambda Cyhalothrin",
+   "Thiamethoxam"
+  ],
+  "crops": [
+   "Cabbage",
+   "Cauliflower",
+   "Cotton",
+   "Gram",
+   "Maize",
+   "Mango",
+   "Pigeonpea",
+   "Potato",
+   "Rice",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blight",
+   "Diamond back moth",
+   "Fly",
+   "Hopper",
+   "Jassids",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Root rot",
+   "Rot",
+   "Stem borer",
+   "Termites",
+   "Whitefly",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Macho - Emamectin Benzoate 5% SG Insecticide",
+  "active_ingredients": [
+   "Emamectin Benzoate"
+  ],
+  "crops": [
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chickpea",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Grapes",
+   "Okra",
+   "Paddy",
+   "Pigeon pea",
+   "Red gram",
+   "Soybean",
+   "Tea",
+   "Tobacco"
+  ],
+  "pests": [
+   "Beetle",
+   "Bollworms",
+   "Caterpillar",
+   "Diamond back moth",
+   "Fruit borer",
+   "Hopper",
+   "Leaf folder",
+   "Mite",
+   "Mites",
+   "Moth",
+   "Pod borer",
+   "Shoot borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Magana Power Glufosinate Ammonium 13.5% SL Herbicide",
+  "active_ingredients": [
+   "Glufosinate Ammonium"
+  ],
+  "crops": [
+   "Cotton",
+   "Sorghum",
+   "Tea"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Mawsim Dinotefuran 20% SG Insecticide",
+  "active_ingredients": [
+   "Dinotefuran"
+  ],
+  "crops": [
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chickpea",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Grapes",
+   "Okra",
+   "Paddy",
+   "Red gram",
+   "Rice",
+   "Tea"
+  ],
+  "pests": [
+   "Aphids",
+   "Diamond back moth",
+   "Fruit borer",
+   "Hopper",
+   "Jassids",
+   "Mites",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Shoot borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Mesotrin Herbicide (Mesotrione 2.27% + Atrazine 22.7% w/w SC)",
+  "active_ingredients": [
+   "Mesotrione",
+   "Atrazine"
+  ],
+  "crops": [
+   "Maize",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Weed"
+  ]
+ },
+ {
+  "product": "Mesrine Extra Herbicide (Mesotrione 2.27% + Atrazine 22.7% w/w SC)",
+  "active_ingredients": [
+   "Mesotrione",
+   "Atrazine"
+  ],
+  "crops": [
+   "Maize",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Weed"
+  ]
+ },
+ {
+  "product": "Metmack - Metalaxyl 8% + Mancozeb 64% WP Fungicide",
+  "active_ingredients": [
+   "Metalaxyl",
+   "Mancozeb"
+  ],
+  "crops": [
+   "Apple",
+   "Bajra",
+   "Chilli",
+   "Maize",
+   "Mustard",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Sorghum",
+   "Sugarcane",
+   "Sunflower",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Rot",
+   "Rust",
+   "Scab"
+  ]
+ },
+ {
+  "product": "Metrifas - Metribuzin 70% WP Selective Herbicide",
+  "active_ingredients": [
+   "Metribuzin"
+  ],
+  "crops": [
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Metsac - Metalaxyl 35% WS Fungicide",
+  "active_ingredients": [
+   "Metalaxyl"
+  ],
+  "crops": [
+   "Bajra",
+   "Chilli",
+   "Maize",
+   "Mustard",
+   "Sorghum",
+   "Sugarcane",
+   "Sunflower",
+   "Tomato"
+  ],
+  "pests": [
+   "Damping off",
+   "Downy mildew",
+   "Rust"
+  ]
+ },
+ {
+  "product": "Mission 2.0 - Lambda Cyhalothrin 5% EC Insecticide",
+  "active_ingredients": [
+   "Lambda Cyhalothrin"
+  ],
+  "crops": [
+   "Cabbage",
+   "Cauliflower",
+   "Cotton",
+   "Gram",
+   "Mango",
+   "Pigeonpea",
+   "Rice"
+  ],
+  "pests": [
+   "Diamond back moth",
+   "Fly",
+   "Hopper",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Stem borer"
+  ]
+ },
+ {
+  "product": "Moxyl - Metalaxyl 35% WS Fungicide",
+  "active_ingredients": [
+   "Metalaxyl"
+  ],
+  "crops": [
+   "Bajra",
+   "Chilli",
+   "Maize",
+   "Mustard",
+   "Sorghum",
+   "Sugarcane",
+   "Sunflower",
+   "Tomato"
+  ],
+  "pests": [
+   "Damping off",
+   "Downy mildew",
+   "Rust"
+  ]
+ },
+ {
+  "product": "Nagasaki - Isoprothiolane 40% EC Fungicide",
+  "active_ingredients": [
+   "Isoprothiolane"
+  ],
+  "crops": [
+   "Cabbage",
+   "Chilli",
+   "Gram",
+   "Grapes",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Hopper",
+   "Leaf spot",
+   "Plant hopper",
+   "Rot",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Nanofas - Pyriproxyfen 10% EC Insecticide",
+  "active_ingredients": [
+   "Pyriproxyfen"
+  ],
+  "crops": [
+   "Apple",
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Maize",
+   "Okra",
+   "Paddy",
+   "Rice",
+   "Tea"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Bollworms",
+   "Diamond back moth",
+   "Hopper",
+   "Jassid",
+   "Jassids",
+   "Mite",
+   "Moth",
+   "Plant hopper",
+   "Shoot borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Nazir Carbendazim 50% WP Fungicide",
+  "active_ingredients": [
+   "Carbendazim"
+  ],
+  "crops": [
+   "Barley",
+   "Cotton",
+   "Grape",
+   "Mango",
+   "Paddy",
+   "Rice",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Nissan - Pyrazosulfuron Ethyl 10% WP Herbicide",
+  "active_ingredients": [
+   "Pyrazosulfuron Ethyl"
+  ],
+  "crops": [
+   "Cotton",
+   "Groundnut",
+   "Paddy",
+   "Rice",
+   "Soybean"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Nursery Gold Gibberellic acid 0.186% SP Plant Growth Regulator",
+  "active_ingredients": [
+   "Gibberellic Acid"
+  ],
+  "crops": [
+   "Banana",
+   "Brinjal",
+   "Cherry",
+   "Cotton",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Paddy",
+   "Sugarcane"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Nyra Pyroxasulfone 85% WG Selective Herbicide",
+  "active_ingredients": [
+   "Pyroxasulfone"
+  ],
+  "crops": [
+   "Cotton",
+   "Maize",
+   "Onion",
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Wheat"
+  ],
+  "pests": [
+   "Moth"
+  ]
+ },
+ {
+  "product": "Oasis - Dinotefuran 20% SG Insecticide",
+  "active_ingredients": [
+   "Dinotefuran"
+  ],
+  "crops": [
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chickpea",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Grapes",
+   "Okra",
+   "Paddy",
+   "Red gram",
+   "Rice",
+   "Tea"
+  ],
+  "pests": [
+   "Aphids",
+   "Diamond back moth",
+   "Fruit borer",
+   "Hopper",
+   "Jassids",
+   "Mites",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Shoot borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Oxy Blue Copper Oxychloride 50% WP Fungicide",
+  "active_ingredients": [
+   "Copper Oxychloride"
+  ],
+  "crops": [
+   "Banana",
+   "Citrus",
+   "Coffee",
+   "Grape",
+   "Mango",
+   "Potato",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Rot",
+   "Rust"
+  ]
+ },
+ {
+  "product": "Oxyflo - Oxyfluorfen 23.5% EC Herbicide",
+  "active_ingredients": [
+   "Oxyfluorfen"
+  ],
+  "crops": [
+   "Onion",
+   "Rice",
+   "Tea"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Panchtara - Thiamethoxam 25% WG Insecticide",
+  "active_ingredients": [
+   "Thiamethoxam"
+  ],
+  "crops": [
+   "Cotton",
+   "Maize",
+   "Potato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blight",
+   "Jassids",
+   "Root rot",
+   "Rot",
+   "Termites",
+   "Whitefly",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Parinda Gold Pendimethalin 38.7% CS Herbicide",
+  "active_ingredients": [
+   "Pendimethalin"
+  ],
+  "crops": [
+   "Cotton",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Penda Pendimethalin 30% EC Herbicide",
+  "active_ingredients": [
+   "Pendimethalin"
+  ],
+  "crops": [
+   "Cotton",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Penda Super Pendimethalin 38.7% CS Herbicide",
+  "active_ingredients": [
+   "Pendimethalin"
+  ],
+  "crops": [
+   "Cotton",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Perfect - Thiophanate Methyl 70% WP Fungicide",
+  "active_ingredients": [
+   "Thiophanate Methyl"
+  ],
+  "crops": [
+   "Apple",
+   "Cotton",
+   "Grapes",
+   "Paddy",
+   "Papaya",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Pinaka - Thiophanate Methyl 70% WP Fungicide",
+  "active_ingredients": [
+   "Thiophanate Methyl"
+  ],
+  "crops": [
+   "Apple",
+   "Cotton",
+   "Grapes",
+   "Paddy",
+   "Papaya",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Powerfull Captan 70% + Hexaconazole 5% WP Fungicide",
+  "active_ingredients": [
+   "Hexaconazole",
+   "Captan"
+  ],
+  "crops": [
+   "Apple",
+   "Brinjal",
+   "Cabbage",
+   "Cauliflower",
+   "Cherry",
+   "Chilli",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tea",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Fly",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Premia (Azoxystrobin 11% + Tebuconazole 18.3% SC) Fungicide",
+  "active_ingredients": [
+   "Azoxystrobin",
+   "Tebuconazole"
+  ],
+  "crops": [
+   "Chickpea",
+   "Chilli",
+   "Cucumber",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Onion",
+   "Paddy",
+   "Pomegranate",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Watermelon",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Premia Gold - Tebuconazole 50% + Trifloxystrobin 25% WG Fungicide",
+  "active_ingredients": [
+   "Trifloxystrobin",
+   "Tebuconazole"
+  ],
+  "crops": [
+   "Apple",
+   "Chickpea",
+   "Chilli",
+   "Cumin",
+   "Groundnut",
+   "Onion",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Prime Cartap Hydrochloride 4% GR Insecticide",
+  "active_ingredients": [
+   "Cartap Hydrochloride"
+  ],
+  "crops": [
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Paddy",
+   "Pigeon pea",
+   "Rice",
+   "Sugarcane",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Bollworm",
+   "Caterpillar",
+   "Diamond back moth",
+   "Fly",
+   "Fruit borer",
+   "Leaf folder",
+   "Moth",
+   "Pod borer",
+   "Shoot borer",
+   "Stem borer",
+   "Termite"
+  ]
+ },
+ {
+  "product": "Prito - Pretilachlor 50% EC Herbicide",
+  "active_ingredients": [
+   "Pretilachlor"
+  ],
+  "crops": [
+   "Rice",
+   "Soybean"
+  ],
+  "pests": [
+   "Weeds"
+  ]
+ },
+ {
+  "product": "Profas Profenofos 40% + Cypermethrin 4% EC Insecticide",
+  "active_ingredients": [
+   "Cypermethrin",
+   "Profenofos"
+  ],
+  "crops": [
+   "Apple",
+   "Brinjal",
+   "Chilli",
+   "Cotton",
+   "Mango",
+   "Onion",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Tea",
+   "Tobacco"
+  ],
+  "pests": [
+   "Aphids",
+   "Beetle",
+   "Bollworm",
+   "Caterpillar",
+   "Fruit borer",
+   "Hopper",
+   "Hoppers",
+   "Jassids",
+   "Leaf folder",
+   "Mite",
+   "Mites",
+   "Moth",
+   "Plant hopper",
+   "Rice weevil",
+   "Shoot borer",
+   "Stem borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Prowood (Chlorpyrifos - termite wood treatment)",
+  "active_ingredients": [
+   "Chlorpyrifos"
+  ],
+  "crops": [
+   "Brinjal",
+   "Cotton",
+   "Gram",
+   "Groundnut",
+   "Mustard",
+   "Paddy",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Aphid",
+   "Bug",
+   "Fly",
+   "Fruit borer",
+   "Grub",
+   "Leaf folder",
+   "Pod borer",
+   "Stem borer",
+   "Termite"
+  ]
+ },
+ {
+  "product": "Qairawan (Chlorpyrifos 50% + Cypermethrin 5% EC) Insecticide",
+  "active_ingredients": [
+   "Chlorpyrifos",
+   "Cypermethrin"
+  ],
+  "crops": [
+   "Brinjal",
+   "Cotton",
+   "Gram",
+   "Groundnut",
+   "Mustard",
+   "Paddy",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Aphid",
+   "Beetle",
+   "Bug",
+   "Fly",
+   "Fruit borer",
+   "Grub",
+   "Leaf folder",
+   "Pod borer",
+   "Rice weevil",
+   "Stem borer"
+  ]
+ },
+ {
+  "product": "Recovery Validamycin 3% L Systemic Antibiotic",
+  "active_ingredients": [
+   "Validamycin"
+  ],
+  "crops": [
+   "Cucumber",
+   "Grape",
+   "Maize",
+   "Onion",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tobacco",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Rust",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Regal - Triacontanol 0.05% GR Plant Growth Regulator",
+  "active_ingredients": [
+   "Triacontanol"
+  ],
+  "crops": [
+   "Chilli",
+   "Cotton",
+   "Groundnut",
+   "Potato",
+   "Rice",
+   "Tomato"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Result Isoproturon 75% WP Herbicide",
+  "active_ingredients": [
+   "Isoproturon"
+  ],
+  "crops": [
+   "Rice",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Rice Star - Chlorantraniliprole 0.4% GR Insecticide",
+  "active_ingredients": [
+   "Chlorantraniliprole"
+  ],
+  "crops": [
+   "Black gram",
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Citrus",
+   "Cotton",
+   "Cucumber",
+   "Gram",
+   "Grape",
+   "Paddy",
+   "Pigeon pea",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Beetle",
+   "Blight",
+   "Bollworm",
+   "Caterpillar",
+   "Diamond back moth",
+   "Downy mildew",
+   "Fly",
+   "Fruit borer",
+   "Leaf folder",
+   "Moth",
+   "Pod borer",
+   "Powdery mildew",
+   "Sheath blight",
+   "Shoot borer",
+   "Stem borer",
+   "Termite"
+  ]
+ },
+ {
+  "product": "Rigal-EW (Triacontanol EW 0.1%) Plant Growth Regulator",
+  "active_ingredients": [
+   "Triacontanol"
+  ],
+  "crops": [
+   "Chilli",
+   "Cotton",
+   "Groundnut",
+   "Potato",
+   "Rice",
+   "Tomato"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Rockstar - Bifenthrin 10% EC Insecticide",
+  "active_ingredients": [
+   "Bifenthrin"
+  ],
+  "crops": [
+   "Apple",
+   "Cotton",
+   "Paddy",
+   "Rice",
+   "Sugarcane",
+   "Tea"
+  ],
+  "pests": [
+   "Bug",
+   "Fly",
+   "Hopper",
+   "Mite",
+   "Mites",
+   "Stem borer",
+   "Termites"
+  ]
+ },
+ {
+  "product": "Royale - Clodinafop Propargyl 15% WP Herbicide",
+  "active_ingredients": [
+   "Clodinafop Propargyl"
+  ],
+  "crops": [
+   "Rice",
+   "Sugarcane",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Sacmix Herbicide (Metsulfuron Methyl 10% + Chlorimuron Ethyl 10%)",
+  "active_ingredients": [
+   "Metsulfuron Methyl",
+   "Chlorimuron Ethyl"
+  ],
+  "crops": [
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Sactimo Imazethapyr 10% SL Herbicide",
+  "active_ingredients": [
+   "Imazethapyr"
+  ],
+  "crops": [
+   "Black gram",
+   "Gram",
+   "Groundnut",
+   "Rice",
+   "Soybean"
+  ],
+  "pests": [
+   "Weeds"
+  ]
+ },
+ {
+  "product": "Saksham Buprofezin 25% SC Insecticide",
+  "active_ingredients": [
+   "Buprofezin"
+  ],
+  "crops": [
+   "Apple",
+   "Bajra",
+   "Barley",
+   "Bhindi",
+   "Citrus",
+   "Cotton",
+   "Grapes",
+   "Groundnut",
+   "Jute",
+   "Maize",
+   "Mango",
+   "Okra",
+   "Potato",
+   "Rice",
+   "Sorghum",
+   "Tomato"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Cyst nematode",
+   "Fly",
+   "Grub",
+   "Hopper",
+   "Hoppers",
+   "Jassids",
+   "Leaf miner",
+   "Mite",
+   "Nematode",
+   "Plant hopper",
+   "Pod borer",
+   "Stem borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Sambha - Tebuconazole 6.7% + Captan 26.9% SC Fungicide",
+  "active_ingredients": [
+   "Tebuconazole",
+   "Captan"
+  ],
+  "crops": [
+   "Apple",
+   "Brinjal",
+   "Cabbage",
+   "Cauliflower",
+   "Cherry",
+   "Chickpea",
+   "Chilli",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Onion",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Fly",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Sancho Dinotefuran 20% SG Insecticide",
+  "active_ingredients": [
+   "Dinotefuran"
+  ],
+  "crops": [
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chickpea",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Grapes",
+   "Okra",
+   "Paddy",
+   "Red gram",
+   "Rice",
+   "Tea"
+  ],
+  "pests": [
+   "Aphids",
+   "Diamond back moth",
+   "Fruit borer",
+   "Hopper",
+   "Jassids",
+   "Mites",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Shoot borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Sapa Tembotrione 34.4% SC Herbicide",
+  "active_ingredients": [
+   "Tembotrione"
+  ],
+  "crops": [
+   "Maize",
+   "Sugarcane",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Sarafa (Carbendazim 12% + Mancozeb 63% WP) Fungicide",
+  "active_ingredients": [
+   "Carbendazim",
+   "Mancozeb"
+  ],
+  "crops": [
+   "Apple",
+   "Barley",
+   "Cotton",
+   "Grape",
+   "Maize",
+   "Mango",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Shivalik Propineb - Propineb 70% WP Fungicide",
+  "active_ingredients": [
+   "Propineb"
+  ],
+  "crops": [
+   "Apple",
+   "Black gram",
+   "Chilli",
+   "Gram",
+   "Grape",
+   "Mango",
+   "Paddy",
+   "Pomegranate",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Shivron Isoproturon 75% WP Herbicide",
+  "active_ingredients": [
+   "Isoproturon"
+  ],
+  "crops": [
+   "Rice",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Skill Quinalphos 25% EC Insecticide",
+  "active_ingredients": [
+   "Quinalphos"
+  ],
+  "crops": [
+   "Bhindi",
+   "Chilli",
+   "Cotton",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Pigeonpea",
+   "Rice",
+   "Tea",
+   "Tomato"
+  ],
+  "pests": [
+   "Aphid",
+   "Beetle",
+   "Bollworm",
+   "Caterpillar",
+   "Fruit borer",
+   "Hopper",
+   "Leaf folder",
+   "Plant hopper",
+   "Pod borer",
+   "Stem borer"
+  ]
+ },
+ {
+  "product": "Speed (Streptomycin Sulphate + Tetracycline Hydrochloride 90:10)",
+  "active_ingredients": [
+   "Tetracycline Hydrochloride",
+   "Streptomycin Sulphate"
+  ],
+  "crops": [
+   "Apple",
+   "Citrus",
+   "Cotton",
+   "Potato"
+  ],
+  "pests": [
+   "Blight",
+   "Leaf spot",
+   "Rot",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Star M45 - Mancozeb 75% WP Fungicide",
+  "active_ingredients": [
+   "Mancozeb"
+  ],
+  "crops": [
+   "Apple",
+   "Maize",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Rot",
+   "Rust",
+   "Scab"
+  ]
+ },
+ {
+  "product": "Star plus - Carbendazim 12% + Mancozeb 63% WP Fungicide",
+  "active_ingredients": [
+   "Carbendazim",
+   "Mancozeb"
+  ],
+  "crops": [
+   "Apple",
+   "Barley",
+   "Cotton",
+   "Grape",
+   "Maize",
+   "Mango",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Sulfo Max - Sulfosulfuron 75%+ Metsulfuron methyl 5% WG Herbicide",
+  "active_ingredients": [
+   "Metsulfuron Methyl",
+   "Sulfosulfuron"
+  ],
+  "crops": [
+   "Maize",
+   "Rice",
+   "Sugarcane",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Sumo – Tebuconazole 10% + Sulphur 65% WG Fungicide",
+  "active_ingredients": [
+   "Tebuconazole",
+   "Sulphur"
+  ],
+  "crops": [
+   "Apple",
+   "Cherry",
+   "Chickpea",
+   "Chilli",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Onion",
+   "Paddy",
+   "Peas",
+   "Rice",
+   "Rose",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Sunrice Herbicide - Ethoxysulfuron 15% WDG",
+  "active_ingredients": [
+   "Ethoxysulfuron"
+  ],
+  "crops": [
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Sugarcane"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Super Star Top (Azoxystrobin 18.2% + Difenoconazole 11.4% SC) Fungicide",
+  "active_ingredients": [
+   "Difenoconazole",
+   "Azoxystrobin"
+  ],
+  "crops": [
+   "Apple",
+   "Chilli",
+   "Cucumber",
+   "Cumin",
+   "Grapes",
+   "Groundnut",
+   "Mango",
+   "Onion",
+   "Paddy",
+   "Pomegranate",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Watermelon",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Sythane M45 - Mancozeb 75% WP Fungicide",
+  "active_ingredients": [
+   "Mancozeb"
+  ],
+  "crops": [
+   "Apple",
+   "Maize",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Rot",
+   "Rust",
+   "Scab"
+  ]
+ },
+ {
+  "product": "Tag Pulse - Thifluzamide 24% SC Fungicide",
+  "active_ingredients": [
+   "Thifluzamide"
+  ],
+  "crops": [
+   "Apple",
+   "Grapes",
+   "Paddy",
+   "Papaya",
+   "Potato",
+   "Rice",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Tagmycin (Streptomycin Sulphate + Tetracycline Hydrochloride)",
+  "active_ingredients": [
+   "Tetracycline Hydrochloride",
+   "Streptomycin Sulphate"
+  ],
+  "crops": [
+   "Apple",
+   "Citrus",
+   "Cotton",
+   "Potato"
+  ],
+  "pests": [
+   "Blight",
+   "Leaf spot",
+   "Rot",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "TagTeem Tricyclazole 75% W.P. Fungicide",
+  "active_ingredients": [
+   "Tricyclazole"
+  ],
+  "crops": [
+   "Apple",
+   "Chilli",
+   "Maize",
+   "Paddy",
+   "Rice",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Tamboor - Isoprothiolane 40% EC Fungicide",
+  "active_ingredients": [
+   "Isoprothiolane"
+  ],
+  "crops": [
+   "Cabbage",
+   "Chilli",
+   "Gram",
+   "Grapes",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Hopper",
+   "Leaf spot",
+   "Plant hopper",
+   "Rot",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Tarzan Chlorantraniliprole 18.5% SC Insecticide",
+  "active_ingredients": [
+   "Chlorantraniliprole"
+  ],
+  "crops": [
+   "Black gram",
+   "Brinjal",
+   "Cabbage",
+   "Chilli",
+   "Citrus",
+   "Cotton",
+   "Cucumber",
+   "Gram",
+   "Grape",
+   "Paddy",
+   "Pigeon pea",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Beetle",
+   "Blight",
+   "Bollworm",
+   "Caterpillar",
+   "Diamond back moth",
+   "Downy mildew",
+   "Fly",
+   "Fruit borer",
+   "Leaf folder",
+   "Moth",
+   "Pod borer",
+   "Powdery mildew",
+   "Sheath blight",
+   "Shoot borer",
+   "Stem borer",
+   "Termite"
+  ]
+ },
+ {
+  "product": "TATA Sentry (Lambda Cyhalothrin 10% WP) Insecticide",
+  "active_ingredients": [
+   "Lambda Cyhalothrin"
+  ],
+  "crops": [
+   "Cabbage",
+   "Cauliflower",
+   "Cotton",
+   "Gram",
+   "Mango",
+   "Pigeonpea",
+   "Rice"
+  ],
+  "pests": [
+   "Diamond back moth",
+   "Fly",
+   "Hopper",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Stem borer"
+  ]
+ },
+ {
+  "product": "Terminator - Chlorpyriphos 20% EC Insecticide",
+  "active_ingredients": [
+   "Chlorpyriphos"
+  ],
+  "crops": [
+   "Cotton",
+   "Gram",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Bug",
+   "Fly",
+   "Hopper",
+   "Jassids",
+   "Leaf folder",
+   "Plant hopper",
+   "Pod borer",
+   "Stem borer",
+   "Termite",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Thiano - Thiamethoxam 12.6% + Lambda Cyhalothrin 9.5% ZC Insecticide",
+  "active_ingredients": [
+   "Lambda Cyhalothrin",
+   "Thiamethoxam"
+  ],
+  "crops": [
+   "Cabbage",
+   "Cauliflower",
+   "Cotton",
+   "Gram",
+   "Maize",
+   "Mango",
+   "Pigeonpea",
+   "Potato",
+   "Rice",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blight",
+   "Diamond back moth",
+   "Fly",
+   "Hopper",
+   "Jassids",
+   "Leaf folder",
+   "Moth",
+   "Plant hopper",
+   "Pod borer",
+   "Root rot",
+   "Rot",
+   "Stem borer",
+   "Termites",
+   "Whitefly",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Today's Metri - Metribuzin 70% WP Selective Herbicide",
+  "active_ingredients": [
+   "Metribuzin"
+  ],
+  "crops": [
+   "Rice",
+   "Soybean",
+   "Sugarcane",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Tomb Pendimethalin 30% EC Herbicide",
+  "active_ingredients": [
+   "Pendimethalin"
+  ],
+  "crops": [
+   "Cotton",
+   "Rice",
+   "Soybean",
+   "Wheat"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Traxx Atrazine 50% WP Herbicide",
+  "active_ingredients": [
+   "Atrazine"
+  ],
+  "crops": [
+   "Maize",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Trophy Tebuconazole 50% + Trifloxystrobin 25% WG Fungicide",
+  "active_ingredients": [
+   "Trifloxystrobin",
+   "Tebuconazole"
+  ],
+  "crops": [
+   "Apple",
+   "Chickpea",
+   "Chilli",
+   "Cumin",
+   "Groundnut",
+   "Onion",
+   "Paddy",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Leaf spot",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "U-Sure Emamectin Benzoate 5% SG Insecticide",
+  "active_ingredients": [
+   "Emamectin Benzoate"
+  ],
+  "crops": [
+   "Bhindi",
+   "Brinjal",
+   "Cabbage",
+   "Chickpea",
+   "Chilli",
+   "Cotton",
+   "Gram",
+   "Grapes",
+   "Okra",
+   "Paddy",
+   "Pigeon pea",
+   "Red gram",
+   "Soybean",
+   "Tea",
+   "Tobacco"
+  ],
+  "pests": [
+   "Beetle",
+   "Bollworms",
+   "Caterpillar",
+   "Diamond back moth",
+   "Fruit borer",
+   "Hopper",
+   "Leaf folder",
+   "Mite",
+   "Mites",
+   "Moth",
+   "Pod borer",
+   "Shoot borer",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Ulala Flonicamid 50% WG Insecticide",
+  "active_ingredients": [
+   "Flonicamid"
+  ],
+  "crops": [
+   "Brinjal",
+   "Chilli",
+   "Cotton",
+   "Mango",
+   "Okra",
+   "Rice",
+   "Tomato"
+  ],
+  "pests": [
+   "Aphids",
+   "Fly",
+   "Fruit borer",
+   "Hopper",
+   "Hoppers",
+   "Jassids",
+   "Leaf miner",
+   "Plant hopper",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "UPL SAAF FUNGICIDE (Mancozeb 63% + Carbendazim 12% WP)",
+  "active_ingredients": [
+   "Carbendazim",
+   "Mancozeb"
+  ],
+  "crops": [
+   "Apple",
+   "Barley",
+   "Cotton",
+   "Grape",
+   "Maize",
+   "Mango",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Urban+ Chlorpyriphos 20% CS Insecticide",
+  "active_ingredients": [
+   "Chlorpyriphos"
+  ],
+  "crops": [
+   "Cotton",
+   "Gram",
+   "Groundnut",
+   "Okra",
+   "Paddy",
+   "Rice",
+   "Sugarcane"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Bug",
+   "Fly",
+   "Hopper",
+   "Jassids",
+   "Leaf folder",
+   "Plant hopper",
+   "Pod borer",
+   "Stem borer",
+   "Termite",
+   "Thrips",
+   "Whitefly"
+  ]
+ },
+ {
+  "product": "Varin Validamycin 3% L Systemic Antibiotic",
+  "active_ingredients": [
+   "Validamycin"
+  ],
+  "crops": [
+   "Cucumber",
+   "Grape",
+   "Maize",
+   "Onion",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Tobacco",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Rust",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Weed Master - 2,4-D Amine Salt 58% SL Herbicide",
+  "active_ingredients": [
+   "2",
+   "4-D Amine Salt"
+  ],
+  "crops": [
+   "Maize",
+   "Potato",
+   "Sorghum",
+   "Sugarcane",
+   "Tea",
+   "Wheat"
+  ],
+  "pests": [
+   "Weed"
+  ]
+ },
+ {
+  "product": "Weed UP SL - Glufosinate Ammonium 13.5% SL Herbicide",
+  "active_ingredients": [
+   "Glufosinate Ammonium"
+  ],
+  "crops": [
+   "Cotton",
+   "Sorghum",
+   "Tea"
+  ],
+  "pests": [
+   "Weed"
+  ]
+ },
+ {
+  "product": "Welldazim Carbendazim 50% WP Fungicide",
+  "active_ingredients": [
+   "Carbendazim"
+  ],
+  "crops": [
+   "Barley",
+   "Cotton",
+   "Grape",
+   "Mango",
+   "Paddy",
+   "Rice",
+   "Wheat"
+  ],
+  "pests": [
+   "Blast",
+   "Blight",
+   "Leaf spot",
+   "Powdery mildew",
+   "Rot",
+   "Sheath blight"
+  ]
+ },
+ {
+  "product": "Welltox 50 W Copper Oxychloride 50% WP Fungicide",
+  "active_ingredients": [
+   "Copper Oxychloride"
+  ],
+  "crops": [
+   "Banana",
+   "Citrus",
+   "Coffee",
+   "Grape",
+   "Mango",
+   "Potato",
+   "Tobacco",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Rot",
+   "Rust"
+  ]
+ },
+ {
+  "product": "Xtreme - Thiamethoxam 25% WG insecticide",
+  "active_ingredients": [
+   "Thiamethoxam"
+  ],
+  "crops": [
+   "Cotton",
+   "Maize",
+   "Potato",
+   "Wheat"
+  ],
+  "pests": [
+   "Aphid",
+   "Aphids",
+   "Blight",
+   "Jassids",
+   "Root rot",
+   "Rot",
+   "Termites",
+   "Whitefly",
+   "Wilt"
+  ]
+ },
+ {
+  "product": "Zap Off - Pyrazosulfuron Ethyl 10% WP Herbicide",
+  "active_ingredients": [
+   "Pyrazosulfuron Ethyl"
+  ],
+  "crops": [
+   "Cotton",
+   "Groundnut",
+   "Paddy",
+   "Rice",
+   "Soybean"
+  ],
+  "pests": []
+ },
+ {
+  "product": "Zee-L Ziram 27% SC Contact Fungicide",
+  "active_ingredients": [
+   "Ziram"
+  ],
+  "crops": [
+   "Apple",
+   "Chilli",
+   "Grape",
+   "Grapes",
+   "Potato",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Scab"
+  ]
+ },
+ {
+  "product": "Ziramfas - Ziram 27% SC Contact Fungicide",
+  "active_ingredients": [
+   "Ziram"
+  ],
+  "crops": [
+   "Apple",
+   "Chilli",
+   "Grape",
+   "Grapes",
+   "Potato",
+   "Tomato"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blight",
+   "Downy mildew",
+   "Leaf spot",
+   "Scab"
+  ]
+ },
+ {
+  "product": "Zitis - Tebuconazole 6.7% + Captan 26.9% SC Fungicide",
+  "active_ingredients": [
+   "Tebuconazole",
+   "Captan"
+  ],
+  "crops": [
+   "Apple",
+   "Brinjal",
+   "Cabbage",
+   "Cauliflower",
+   "Cherry",
+   "Chickpea",
+   "Chilli",
+   "Grape",
+   "Grapes",
+   "Groundnut",
+   "Onion",
+   "Paddy",
+   "Potato",
+   "Rice",
+   "Soybean",
+   "Tomato",
+   "Wheat"
+  ],
+  "pests": [
+   "Anthracnose",
+   "Blast",
+   "Blight",
+   "Damping off",
+   "Downy mildew",
+   "Fly",
+   "Powdery mildew",
+   "Root rot",
+   "Rot",
+   "Rust",
+   "Scab",
+   "Sheath blight",
+   "Wilt"
+  ]
+ }
+]

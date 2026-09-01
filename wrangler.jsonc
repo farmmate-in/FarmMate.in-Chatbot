@@ -1,0 +1,22 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "farmmate-chatbot",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-01",
+  "observability": {
+    "enabled": true
+  },
+
+  // KV namespace that stores the CIB knowledge-base data (index.json + lookup.json).
+  // Replace "id" below with the namespace id you get after running:
+  //   npx wrangler kv namespace create FARMMATE_KB
+  "kv_namespaces": [
+    {
+      "binding": "FARMMATE_KB",
+      "id": "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+    }
+  ]
+
+  // ANTHROPIC_API_KEY is set as a secret, NOT here:
+  //   npx wrangler secret put ANTHROPIC_API_KEY
+}
